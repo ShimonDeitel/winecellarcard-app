@@ -1,0 +1,27 @@
+{
+  "identifier": "SK_CONFIG",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "PRO1",
+      "localizations": [
+        {
+          "description": "Unlimited bottles, cellar location map, and tasting note history",
+          "displayName": "Wine Cellar Card Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.winecellarcard.pro",
+      "referenceName": "Wine Cellar Card Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
